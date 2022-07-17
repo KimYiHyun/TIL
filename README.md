@@ -8,3 +8,4 @@
 + Git
 + Crawling
 + Python
++ NLP
